@@ -20,7 +20,7 @@ En una universidad cada estudiante cursa 4 materias en el semestre. Desarrolla u
 
 Ejemplo:
 ```
-Calificación de la materia: 90
+ 90
 Calificación de la materia: 100
 Calificación de la materia: 60
 Calificación de la materia: 70
